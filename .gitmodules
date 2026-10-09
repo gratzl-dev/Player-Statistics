@@ -1,0 +1,3 @@
+[submodule "src/main/resources/Player-Statistics.website"]
+	path = src/main/resources/Player-Statistics.website
+	url = https://github.com/gratzl-dev/Player-Statistics.website.git
